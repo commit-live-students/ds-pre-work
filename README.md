@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center"> Data Science | Course Pre-work</h1>
-Welcome! Congratulations on your acceptance to GreyAtom's Immersive Data Science Engineering Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the program.
+Welcome! Congratulations on your acceptance to GreyAtom's  Data Science Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the program.
 
 # Overview
 
@@ -89,7 +89,7 @@ We will share many more, when in the course, but here are some very good startin
 
 Keep up with the latest in Data Science. Join & Attend the DataGiri Meetup
 
-www.meetup.com/datagiri
+www.meetup.com/pro/datagiri
 
 ## GreyAtom's Philosophy on Learning
 
