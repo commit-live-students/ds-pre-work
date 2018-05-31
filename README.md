@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/greyatom.png" />
 </p>
+
 # Program Pre-Work
 
 Welcome! Congratulations on your acceptance to GreyAtom's Data Science Program. We hope you are really excited!! We want you to get ready for the program and have a smooth experience.
