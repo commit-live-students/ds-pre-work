@@ -63,26 +63,16 @@ step by step guide to install the same.
  Two companion blog posts:
  * [Simple guide to forks](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
  * [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/).
-
 # Pre-Reading Material
 Here are few resources that help you stand out from the rest. We strongly recommend everyone to go through the mentioned material before coming to the class. For many these would be just revisiting the concepts learned earlier, while for some they would be completely new concepts. We would like to **re-emphasize** that learners who are visiting these concepts for the first time should dedicate extra time to pre work and get thorough with it.
 
-### Beginners Level
-This is for the learners from a non math and statistics background, or learn who need a refresher on basic topics
+#### Statistics
+* [Statistics & Probability (Estimated time :10 Hours | Tip - watch the videos on 1.5x speed)](https://www.khanacademy.org/math/statistics-probability)
+* [University of Amsterdam, Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 
 #### Linear Algebra
 * [Basic Linear Algebra for Machine Learning (Estimated time : 4 hours)](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)
 
-#### Statistics
-* [Basic Statistics and Probability (Estimated time : 4 hours)](https://projects.ncsu.edu/crsc/events/ugw06/presentations/scheywar/finalundergrad.pdf)
-
-### Intermediate Level
-If you are well versed with the basics of linear algebra and statistics you can skip the beginners level content and focus on these topics. Learners who have completed the beginners level can proceed with this content.
-#### Linear Algebra
-* [Intermediate topics in Linear Algebra for Machine Learning (Estimated time : 10 hours)](http://www.deeplearningbook.org/contents/linear_algebra.html)
-#### Statistics
-* [Intermediate topics in Statistics & Probability (Estimated time :10 Hours | Tip - watch the videos on 1.5x speed)](https://www.khanacademy.org/math/statistics-probability)
-* [Probability and Information Theory (Estimated time : 10 hours)](http://www.deeplearningbook.org/contents/prob.html)
 
 ## Programming
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (An absolute essential for non programmers)
@@ -90,11 +80,13 @@ If you are well versed with the basics of linear algebra and statistics you can 
 <!-- * [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers -->
 
 ## Machine Learning
+* [Udacity, Introduction to Machine Learning](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 * [A Friendly Introduction to Machine Learning  - 30 Minutes](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=1232s)
 <!-- * [Introduction to Machine Learning - Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) -->
 * [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library - 15 Minutes](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
-## Additional Resources (optional)
+
+# Additional Resources (optional)
 We recommend you to go through the following content
 
 * [Basics of Calculus - Visual Introduction](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
